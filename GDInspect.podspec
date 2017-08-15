@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GDInspect"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "Runtime class/object inspecting category built on top of the NSObject class."
   s.homepage         = "https://github.com/GDXRepo/GDInspect"
   s.license          = { :type => "Apache", :file => "LICENSE" }
